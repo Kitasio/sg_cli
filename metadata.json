@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Soul Genesis #1",
+        "description": "Remember to replace this description",
+        "image": "https://ifes-ras.xyz/images/1/1.jpg",
+        "dna": "f70386e76f3d4b1abc160653443bcd4c9e2f8b5c",
+        "edition": 1,
+        "stage": 1,
+        "frozen": false,
+        "seller_fee_basis_points": 700,
+        "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721",
+        "attributes": [
+            {
+                "trait_type": "Abstract",
+                "value": "Dots"
+            },
+            {
+                "trait_type": "Abstract",
+                "value": "Flow"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Leaves"
+            },
+            {
+                "trait_type": "Places",
+                "value": "Meadow"
+            },
+            {
+                "trait_type": "Places",
+                "value": "Lake"
+            },
+            {
+                "trait_type": "Fauna",
+                "value": "Big Fish "
+            }
+        ]
+    },
+    {
+        "name": "Soul Genesis #2",
+        "description": "Remember to replace this description",
+        "image": "https://ifes-ras.xyz/images/1/2.jpg",
+        "dna": "6f33126266698eaee07add4f1479c98ddba204f6",
+        "edition": 2,
+        "stage": 1,
+        "frozen": false,
+        "seller_fee_basis_points": 700,
+        "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721",
+        "attributes": [
+            {
+                "trait_type": "Phenomenon",
+                "value": "Rain"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Poplar Trees"
+            },
+            {
+                "trait_type": "Places",
+                "value": "Lake"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Crocuses"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Flowerland"
+            },
+            {
+                "trait_type": "Abstract",
+                "value": "Stripes"
+            }
+        ]
+    },
+    {
+        "name": "Soul Genesis #3",
+        "description": "Remember to replace this description",
+        "image": "https://ifes-ras.xyz/images/1/3.jpg",
+        "dna": "ae6561278dedff7495f0bc9d19260fba987535c1",
+        "edition": 3,
+        "stage": 1,
+        "frozen": false,
+        "seller_fee_basis_points": 700,
+        "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721",
+        "attributes": [
+            {
+                "trait_type": "Abstract",
+                "value": "Ribbons"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Thicket"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Purslane"
+            },
+            {
+                "trait_type": "Abstract",
+                "value": "Stripes"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Flowerland"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Tussock Grass"
+            }
+        ]
+    },
+    {
+        "name": "Soul Genesis #4",
+        "description": "Remember to replace this description",
+        "image": "https://ifes-ras.xyz/images/1/4.jpg",
+        "dna": "6f2126df5494ad9233e581946802a392905a7ce0",
+        "edition": 4,
+        "stage": 1,
+        "frozen": false,
+        "seller_fee_basis_points": 700,
+        "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721",
+        "attributes": [
+            {
+                "trait_type": "Abstract",
+                "value": "Bubbles"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Spruce Trees"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Multicolor"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Daisies"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Primrose"
+            },
+            {
+                "trait_type": "Phenomenon",
+                "value": "Aqua"
+            }
+        ]
+    },
+    {
+        "name": "Soul Genesis #5",
+        "description": "Remember to replace this description",
+        "image": "https://ifes-ras.xyz/images/1/5.jpg",
+        "dna": "bb23fa5dabacaa4c0a333fe36bb66362e03cd39c",
+        "edition": 5,
+        "stage": 1,
+        "frozen": false,
+        "seller_fee_basis_points": 700,
+        "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721",
+        "attributes": [
+            {
+                "trait_type": "Fauna",
+                "value": "Butterflies"
+            },
+            {
+                "trait_type": "Abstract",
+                "value": "Holes"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Flowerland"
+            },
+            {
+                "trait_type": "Flora",
+                "value": "Bluebells"
+            },
+            {
+                "trait_type": "Fauna",
+                "value": "Flying Flock"
+            },
+            {
+                "trait_type": "Phenomenon",
+                "value": "Aqua"
+            }
+        ]
+    }
+]
